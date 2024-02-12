@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+.a{
+    text-decoration: none;
+}
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 14px;
+}
+header nav ul li{
+    display: inline ;
+margin-left: 40px;
+}
+.sub-nav{
+    background-color: aliceblue;
+    text-align: center;
+}
+.sub-nav span{
+    color: blue;
+
+}
+.hero{
+    text-align: center;
+    padding-top: 40px;
+    
+    
+
+
+}
+,hero h1{
+    margin-bottom: 30px;
+
+}
+.link{
+    margin-top: 12px;
+}
+.link a{
+    margin: 10px;
+}
+.second{
+    background-color: black;
+    color: white;
+    height: 70vh;
+    text-align: center;
+    padding-top: 40px;
+}
+.second h1{
+    margin-bottom: 6px;
+
+}
+.second h5{
+    margin-bottom: 15px;
+}
+.second img{
+    width: 700px;
+}
+.main{
+    display: flex;
+    margin: 10px;
+}
+.box{
+    width: 49%;
+    background-color: black;
+    color: white;
+    margin: 6px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
